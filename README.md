@@ -86,7 +86,7 @@ public class Exp9
 
 ## OUTPUT :
 
-![image](https://github.com/naveen-m0804/Interface-with-abstract-methods-CSharp/assets/117974950/e0cfb84c-807a-4b31-82fb-fe8e868f436d)
+![image](https://github.com/naveen-m0804/Interface-with-abstract-methods-CSharp/assets/117974950/4a39df7e-88a6-4c24-bca1-1787badd4063)
 
 ## RESULT :
 
